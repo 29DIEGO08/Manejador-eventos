@@ -14,4 +14,17 @@ Paso a paso de instalacion del proyecto
 -Instala Node.js
 -Instalar dependencias (npm install)
 -Ejecutar en desarrollo (npm run dev)
--
+
+
+INTEGRANTRES
+-Juan Diego Palacio Ospina
+TI: 1018241566
+correo: programacion2905@gmail.com
+
+-Dunier Camilo Galvis Morales
+cc: 1035440105
+correo: camilo.galvis98@gmail.com
+
+-Daniel Mejia Osorio
+cc: 1035440447
+correo: danielamejiaosorio15@gmail.com 
